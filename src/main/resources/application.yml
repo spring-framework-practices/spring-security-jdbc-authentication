@@ -1,0 +1,6 @@
+
+#============================== Configuration H2 Database.
+#  h2:
+#   console:
+#    enabled: true
+#    path: /h2
